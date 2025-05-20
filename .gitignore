@@ -1,0 +1,28 @@
+# Unity - Exclure les gros fichiers générés automatiquement
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+*.resS
+*.apk
+*.exe
+*.app
+*.unitypackage
+*.dll
+*.pdb
+*.log
+*.cache
+*.zip
+*.7z
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode / Rider
+.vscode/
+.idea/
+*.sln
+*.csproj
